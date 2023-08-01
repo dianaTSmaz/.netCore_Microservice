@@ -1,0 +1,66 @@
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.RazorAssemblyInfo.cache
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.RazorAssemblyInfo.cs
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\CouponsWeb.staticwebassets.runtime.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\CouponsWeb.exe
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\CouponsWeb.deps.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\CouponsWeb.runtimeconfig.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\CouponsWeb.pdb
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.CouponsWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.CouponsWeb.props
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CouponsWeb.props
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CouponsWeb.props
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\scopedcss\bundle\CouponsWeb.styles.css
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\scopedcss\projectbundle\CouponsWeb.bundle.scp.css
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.csproj.CopyComplete
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\refint\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.pdb
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\CouponsWeb.genruntimeconfig.cache
+C:\Users\diana\OneDrive\Escritorio\ASP .NET MVC\MicroServices_.NET_Scratch\CouponsWeb\obj\Debug\net7.0\ref\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\CouponsWeb.staticwebassets.runtime.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\CouponsWeb.exe
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\CouponsWeb.deps.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\CouponsWeb.runtimeconfig.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\CouponsWeb.pdb
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.AssemblyInfoInputs.cache
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.AssemblyInfo.cs
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.RazorAssemblyInfo.cache
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.RazorAssemblyInfo.cs
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.CouponsWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.CouponsWeb.props
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CouponsWeb.props
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CouponsWeb.props
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\scopedcss\bundle\CouponsWeb.styles.css
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\scopedcss\projectbundle\CouponsWeb.bundle.scp.css
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.csproj.CopyComplete
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\refint\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.pdb
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.genruntimeconfig.cache
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\ref\CouponsWeb.dll

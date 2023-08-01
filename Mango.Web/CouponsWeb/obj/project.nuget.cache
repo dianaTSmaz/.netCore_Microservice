@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+JhhHJdt2m69dRpT35PnFt1GAufUnanSL0kzg24yJzz2XULXy1Fkg8fgfHHgcBGTzUpSnhirHq97HZ5ABaiyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diana\\OneDrive\\Escritorio\\MicroServices\\Mango.Web\\CouponsWeb\\CouponsWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
