@@ -64,3 +64,11 @@ C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\
 C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.pdb
 C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\CouponsWeb.genruntimeconfig.cache
 C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\obj\Debug\net7.0\ref\CouponsWeb.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\System.CodeDom.dll

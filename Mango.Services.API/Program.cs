@@ -32,8 +32,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+/*Authentication must be after the Redirection to be able to apply it*/
 app.UseAuthentication();
+
+/*Authorization must be after Authenticatipon*/
+app.UseAuthorization();
 app.MapControllers();
 ApplyMigration();
 app.Run();

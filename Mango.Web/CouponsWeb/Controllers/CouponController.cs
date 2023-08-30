@@ -24,11 +24,13 @@ namespace CouponsWeb.Controllers
             ResponseDto? response = await _couponService.GetAllCouponsAsync();
             if (response != null && response.IsSuccess)
             {
+                TempData["success"] = "List of coupons shows successfully";
                 list = JsonConvert.DeserializeObject<List<CouponDto>>(Convert.ToString(response.Result));
             }
-           // else {
+            else {
+                TempData["error"] = response?.Message; 
              //   throw new Exception("information not loaded");
-            //}
+            }
          
             return View(list);  
         }
@@ -82,10 +84,14 @@ namespace CouponsWeb.Controllers
         {
             //In this section is where is called the method to delete the coupon
             ResponseDto? response = await _couponService.DeleteCouponAsync(couponDto.CouponId);
-            if (response != null && response.IsSuccess) 
+            if (response != null && response.IsSuccess)
             {
+                TempData["sucess"] = "Coupon deleted successfully";
                 return RedirectToAction(nameof(CouponIndex));
             }
+            else {
+                TempData["error"] = response?.Message;           
+             }
             return View(couponDto);
         }
     }

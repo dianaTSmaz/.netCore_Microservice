@@ -1,0 +1,21 @@
+﻿@if(TempData["error"]!= null)
+{
+    <!--The Jquery and the cdnjs (script) of toastr are called-->
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.js"></script>
+    <script type="text/javascript">
+        toastr.error('@TempData["error"]')
+
+    </script>
+
+    //Now if the response is not null and the conditions are followed 
+    if(TempData["success"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.js"></script>
+        <script type="text/javascript">
+           toastr.success['@TempData["success"]']    
+        </script>
+    }
+}
