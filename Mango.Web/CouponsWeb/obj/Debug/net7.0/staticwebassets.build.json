@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "7smu16VAThm2pYkHjcwjjMdM1VLAUfmDvLaNG+b3Vr4=",
+  "Hash": "S90OaMn2oFV1Eoe1rsmntoOl8x79/vrleipr5arTk3w=",
   "Source": "CouponsWeb",
   "BasePath": "_content/CouponsWeb",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\diana\\OneDrive\\Escritorio\\MicroServices\\Mango.Web\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+      "Version": 2,
+      "Source": "Mango.Services.AuthAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "CouponsWeb\\wwwroot",
