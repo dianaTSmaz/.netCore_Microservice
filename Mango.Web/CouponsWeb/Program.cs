@@ -2,6 +2,8 @@ using CouponsWeb.Models;
 using CouponsWeb.Service;
 using CouponsWeb.Service.IService;
 using CouponsWeb.Utility;
+using Mango.Services.CouponAPI.Data;
+using Microsoft.EntityFrameworkCore;
 using CouponService = CouponsWeb.Service.CouponService;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,13 +24,18 @@ StartingDetails.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
 //here is where the the base url page used in the controller takes its value
 StartingDetails.AuthAPIBase = builder.Configuration["ServiceUrls:AuthAPI"];
 
+
+
+builder.Services.AddEndpointsApiExplorer();
+
 //Inject and specify the life cycle of the services
 builder.Services.AddScoped<IBaseService, BaseService>();
-builder.Services.AddScoped<ICouponService, CouponService>();
+
+//builder.Services.AddScoped<ICouponService, CouponService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 
 //We assign to CouponAPIBASE the API URL which can be find in the launchSetting.json file
-//StartingDetails.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
+StartingDetails.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
 
 
 
@@ -43,14 +50,21 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+
 app.UseStaticFiles();
 
 app.UseRouting();
 
 app.UseAuthorization();
 
+//app.MapControllers();
+
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+

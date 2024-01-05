@@ -60,7 +60,7 @@ namespace Mango.Services.AuthAPI.Service
                         Name = userToReturn.Name,
                         PhoneNumber = userToReturn.PhoneNumber,
                     };
-                    return "";
+                    return "";       
                 }
                 else
                 {
@@ -70,7 +70,7 @@ namespace Mango.Services.AuthAPI.Service
             }
             catch (Exception ex) 
             {
-               await Console.Out.WriteLineAsync(ex.Message);
+               //await Console.Out.WriteLineAsync(ex.Message);
             }
             return "Has Happened an error";
         }

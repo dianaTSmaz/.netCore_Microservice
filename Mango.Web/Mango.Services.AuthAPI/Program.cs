@@ -30,12 +30,20 @@ builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<D
 
 builder.Services.AddControllers();
 
+
+//Add the endpoints generator
+builder.Services.AddEndpointsApiExplorer();
+
+builder.Services.AddSwaggerGen();
+
 //Add the service with Scoped(one per request)
 builder.Services.AddScoped<IAuthService, AuthService>();
 
 //Add the JSON Web Token Service
 builder.Services.AddScoped<IJWTTokenGenerator,JWTTokenGenerator>();
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -47,6 +55,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthentication();
+//app.UseAuthorization();
 app.MapControllers();
 ApplyMigration();
 app.Run();

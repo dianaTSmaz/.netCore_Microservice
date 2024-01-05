@@ -14,7 +14,7 @@ namespace Mango.Services.CouponAPI.Controller
     {
         //Dependency Injection
         private readonly DbContextCouponApi _dbase;
-        private readonly ResponseDto _response;
+        private  ResponseDto _response;
         //Injects the IMapper interface
         private IMapper _mapper;
 
@@ -40,7 +40,7 @@ namespace Mango.Services.CouponAPI.Controller
                 //IEnumerable<CouponDto> = destino
                 //objList = resource
                 _response.Result = _mapper.Map<IEnumerable<CouponDto>>(objList);
-                return _response;
+               // return _response;
             }
             catch (Exception ex)
             {
@@ -57,8 +57,9 @@ namespace Mango.Services.CouponAPI.Controller
             try
             {
                 Coupon couponId = _dbase.Coupons.First(c => c.CouponId == id);
-                _response.Result = couponId;
-                return Ok(_response);
+                // _response.Result = couponId;
+                _response.Result = _mapper.Map<CouponDto>(couponId);
+               // return Ok(_response);
             }
             catch (Exception ex)
             {

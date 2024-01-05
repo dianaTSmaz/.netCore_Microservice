@@ -127,3 +127,6 @@ C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\
 C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Mango.Services.AuthAPI.dll
 C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Mango.Services.AuthAPI.pdb
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\diana\OneDrive\Escritorio\MicroServices\Mango.Web\CouponsWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll

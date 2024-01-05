@@ -3,9 +3,11 @@ using Mango.Services.AuthAPI.Service.IService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace Mango.Services.AuthAPI.Controller
 {
     [Route("api/auth")]
+    // [System.Web.Http.RoutePrefix("api/auth")]
     [ApiController]
 
     //In this section we are going to consume the Authentication Service
@@ -25,9 +27,9 @@ namespace Mango.Services.AuthAPI.Controller
             _authService = authService; 
             _response = new ResponseDto();   
         }
-
+        //[Route("api/register")]
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] RegistrationRequestDTO model) 
+        public async Task<IActionResult> register([FromBody] RegistrationRequestDTO model) 
         {
             var errorMessage = await _authService.Register(model);
             

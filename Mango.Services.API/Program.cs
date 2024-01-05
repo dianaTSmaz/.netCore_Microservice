@@ -36,7 +36,7 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 
 /*Authorization must be after Authenticatipon*/
-app.UseAuthorization();
+//app.UseAuthorization();
 app.MapControllers();
 ApplyMigration();
 app.Run();
